@@ -1,0 +1,89 @@
+/* Common CSS */
+* {
+  box-sizing: border-box;
+}
+
+html, body,
+ul, li,
+h1, h2, p,
+form, input, div, footer {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #ffff00;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: 400;
+  -webkit-font-smoothing: antialiased;
+  font-size: 25px;
+  letter-spacing: 0.05em;
+  color: #000000;
+}
+
+h1 {
+  font-size: 100px;
+  font-family: Pussycat, Algerian, Broadway, fantasy;
+  color: #000066;
+}
+
+h2 {
+  font-weight: bold;
+  color: #1a7f1a;
+}
+
+a {
+  text-decoration: none;
+  color: #4ac0b9;
+  display: block;
+  text-align: center;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:visited {
+  color: #4ac0b9;
+}
+
+input {
+  border: 0;
+  text-decoration: none;
+  outline: none;
+  padding-left: 577px;
+}
+
+.container {
+  width: 1170px;
+  padding-right: 25px;
+  padding-left: 25px;
+  margin-right: auto;
+  margin-left: auto;
+  height: 240px;
+  position: relative;
+  border: 3px solid green;
+  background-color: #ff3399;
+}
+.center {
+      margin: 0;
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      -ms-transform: translate(-50%, -50%);
+      transform: translate(-50%, -50%);
+      }
+
+table {
+  background-color: #4d79ff;
+  font-size: 18px;
+}
+
+tr {
+  background-color: #e6ecff;
+}
+
+footer {
+  border: 3px solid green;
+  background-color: #99cc00;
+}
