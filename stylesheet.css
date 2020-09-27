@@ -83,6 +83,19 @@ tr {
   background-color: #e6ecff;
 }
 
+.blink {
+  animation: blinker 0.6s linear infinite;
+  color: #000066;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+@keyframes blinker {
+  50% {
+    opacity: 0;
+  }
+}
+
 footer {
   border: 3px solid green;
   background-color: #99cc00;
