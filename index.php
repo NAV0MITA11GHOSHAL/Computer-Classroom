@@ -41,7 +41,7 @@
     
     <br>
     <br>
-      <a href="resource.php">CLICK HERE TO GET THE LINK TO ONLINE RESOURCES</a>
+      <a href="resource.php" class="blink">CLICK HERE TO GET THE LINK TO ONLINE RESOURCES</a>
 
     <br>
     <footer>
