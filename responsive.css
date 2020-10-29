@@ -7,9 +7,6 @@
 
 /* For Smartphones */
 @media all and (max-width: 670px) {
-  .header-list {
-    text-align: center;
-  }
   footer {
     text-align: center;
   }
