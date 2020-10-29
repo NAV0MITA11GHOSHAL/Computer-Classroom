@@ -1,0 +1,13 @@
+/* For Tablets */
+@media all and (max-width: 1000px) {
+  h2 {
+    font-size: 20px;
+  }
+}
+
+/* For Smartphones */
+@media all and (max-width: 670px) {
+  footer {
+    text-align: center;
+  }
+}
