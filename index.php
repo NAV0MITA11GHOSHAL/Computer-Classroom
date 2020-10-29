@@ -4,6 +4,7 @@
   <meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1">
   <title>Computer Classroom</title>
   <link rel="stylesheet" type="text/css" href="stylesheet.css">
+  <link rel="stylesheet" href="responsive.css">
 </head>
 <body>
 
