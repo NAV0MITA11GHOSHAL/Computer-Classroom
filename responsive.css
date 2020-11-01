@@ -3,12 +3,26 @@
   h2 {
     font-size: 20px;
   }
+  .flex-list {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .flex-list li {
+    flex: auto;
+    width: 50%;
+  }
 }
 
 /* For Smartphones */
 @media all and (max-width: 670px) {
   .container {
     text-align: center;
+  }
+  .flex-list {
+    flex-direction: column;
+  }
+  .flex-list li {
+    margin: 0 auto;
   }
   footer {
     text-align: center;
