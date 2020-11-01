@@ -38,7 +38,7 @@
       <h6 align="center"><?php echo "CLICK ON THE IMAGE BELOW TO VIEW THE TIME - TABLE"?></h6>
 
         <form method="post" action="Time-Table.php">
-        <input type="image" name="Time-Table" src="https://1.bp.blogspot.com/-am7TfwS-NFY/XeJCn_dqgUI/AAAAAAAAABQ/bjBFrTWdMSkmod28Zhs3vMytLn6wksznQCLcBGAsYHQ/s1600/5.JPG" alt="VIEW THE Time-Table" height = "300" width="900">   
+        <input type="image" name="Time-Table" src="https://1.bp.blogspot.com/-am7TfwS-NFY/XeJCn_dqgUI/AAAAAAAAABQ/bjBFrTWdMSkmod28Zhs3vMytLn6wksznQCLcBGAsYHQ/s1600/5.JPG" class="img-responsive" alt="VIEW THE Time-Table" height = "300" width="900">   
         </form>
 
     <br>
