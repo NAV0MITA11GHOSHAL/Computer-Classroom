@@ -6,7 +6,7 @@
 }
 
 /* For Smartphones */
-@media all and (max-width: 768px) {
+@media all and (max-width: 670px) {
   .container {
     text-align: center;
   }
