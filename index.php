@@ -3,6 +3,7 @@
 <head>
   <meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1">
   <title>Computer Classroom</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
   <link rel="stylesheet" type="text/css" href="stylesheet.css">
   <link rel="stylesheet" href="responsive.css">
 </head>
@@ -19,14 +20,14 @@
     <div class="header-list">
       <h2 align="center">BULLETIN BOARD</h2>
       <div class="container">
-      <ul>
-        <li><?php echo "On 30th September, 2020 there will be a Practical Test of 100 marks."?></li>
-        <li><?php echo "Classes are cancelled on 2nd October, 2020 for the Occasion of Gandhi Jayanti."?></li>
-        <li><?php echo "Classes are cancelled from 23rd to 26th October, 2020 on the Occasion of Durga Puja."?></li>
-        <li><?php echo "Classes are cancelled on 14th November, 2020 for the Occasion of Kali Puja and Deepavali."?></li>
-        <li><?php echo "CODE-A-THON will be conducted on 26th November, 2020. Details will be shared soon."?></li>
-        <li><?php echo "SURPRISES are awaiting for the students on 24th December, 2020 for the Occasion of Christmas Eve."?></li>
-        <li><?php echo "Classes are cancelled on 25th December, 2020 for the Occasion of Christmas."?></li>
+      <ul class="flex-list">
+        <li class="li1"><?php echo "On 30th September, 2020 there will be a Practical Test of 100 marks."?></li>
+        <li class="li2"><?php echo "Classes are cancelled on 2nd October, 2020 for the Occasion of Gandhi Jayanti."?></li>
+        <li class="li3"><?php echo "Classes are cancelled from 23rd to 26th October, 2020 on the Occasion of Durga Puja."?></li>
+        <li class="li4"><?php echo "Classes are cancelled on 14th November, 2020 for the Occasion of Kali Puja and Deepavali."?></li>
+        <li class="li5"><?php echo "CODE-A-THON will be conducted on 26th November, 2020. Details will be shared soon."?></li>
+        <li class="li6"><?php echo "SURPRISES are awaiting for the students on 24th December, 2020 for the Occasion of Christmas Eve."?></li>
+        <li class="li7"><?php echo "Classes are cancelled on 25th December, 2020 for the Occasion of Christmas."?></li>
       </ul>
       </div>
     </div>
