@@ -63,6 +63,7 @@ input {
   height: 240px;
   position: relative;
   border: 3px solid green;
+  border-collapse: collapse;
   background-color: #ff3399;
 }
 .center {
